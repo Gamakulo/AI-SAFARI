@@ -42,6 +42,8 @@ Website: [www.neurospark.com](http://www.neurospark.com)
 
 # AI-Powered Branding
 
+#  Design Assets: View on Canva (https://www.canva.com/design/DAGv8DzpPVY/Z7N3AEMIKUJAfhMynasHWQ/edit?utm_content=DAGv8DzpPVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Why Businesses Must Embrace AI-Powered Branding to Stay Ahead
 
 In today’s hyper-competitive marketplace, standing out is harder than ever. Consumers are bombarded with thousands of brand messages every single day, and attention spans are shorter than a social media swipe. Traditional branding methods—once the bedrock of marketing—are no longer enough to capture and keep customer attention.
