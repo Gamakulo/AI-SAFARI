@@ -107,5 +107,7 @@ AI Branding Strategist
 NeuroSPARK™ Branding Agency
 
 Email: [gamachu.kulo@neurospark.com](mailto:gamachu.kulo@neurospark.com)
+
 Phone: +1 (555) 123-4567
-Website: [www.neurolinkbranding.com](http://www.neurolinkbranding.com)
+
+Website: [www.neurospark.com](http://www.neurospark.com)
