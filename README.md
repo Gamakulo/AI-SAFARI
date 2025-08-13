@@ -85,7 +85,7 @@ The question is no longer *“Should we use AI in branding?”* but *“Can we a
 
 ##  Subject: Give Your Brand the AI Advantage
 
-##  Hi MedTech Innovators Inc.,
+Hi MedTech Innovators Inc.,
 
 Standing out in today’s crowded marketplace isn’t just challenging—it’s critical for survival. Consumers are hit with thousands of brand messages every day, and traditional approaches simply can’t keep up with this pace.
 
