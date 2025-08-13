@@ -104,6 +104,7 @@ AI doesn’t replace creativity—it supercharges it, allowing your brand to con
 Let’s schedule a time to discuss how AI branding can give you the edge. Are you free for a quick call next week?
 
 Best regards,
+
 Gamachu Kulo
 
 AI Branding Strategist
