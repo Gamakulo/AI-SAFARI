@@ -4,6 +4,9 @@
 
 # NeuroSpark™ – README
 
+![NeuroSpark Logo](assets/logo.png)
+
+
 ## Tagline
 
 **"Brand Intelligence. Human Emotion. Infinite Possibilities."**
@@ -41,6 +44,9 @@ Website: [www.neurospark.com](http://www.neurospark.com)
 #  Phase 2: AI-Generated Design & Marketing Content
 
 # AI-Powered Branding
+
+#   ![Social Media Post](assets/design.png)
+
 
 #  Design Assets: View on Canva (https://www.canva.com/design/DAGv8DzpPVY/Z7N3AEMIKUJAfhMynasHWQ/edit?utm_content=DAGv8DzpPVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
